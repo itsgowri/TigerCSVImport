@@ -1,0 +1,11 @@
+.app-manifest-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+.table {
+    margin-left: 10%;
+    width: 80%;
+}
